@@ -14,6 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `yarn storybook`
+
+Runs the app in the ui development mode.\
+Open [http://localhost:6006](http://localhost:6006) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
